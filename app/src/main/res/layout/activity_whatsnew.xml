@@ -1,0 +1,95 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/healthcrossbg2"
+    android:orientation="vertical"
+    tools:context=".whatsnew">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="80dp"
+            android:fontFamily="sans-serif-black"
+            android:text="WHAT'S NEW?"
+            android:textAlignment="center"
+            android:textColor="#090909"
+            android:textSize="34sp" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textView10"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:clickable="false"
+                    android:fontFamily="serif"
+                    android:padding="80px"
+                    android:text="@string/link9"
+                    android:textAlignment="center"
+                    android:textAllCaps="true"
+                    android:textColor="#090909"
+                    android:textColorHighlight="#FDFCFC"
+                    android:textColorLink="#5E35B1"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView11"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="serif"
+                    android:padding="80px"
+                    android:text="@string/link10"
+                    android:textAlignment="center"
+                    android:textAllCaps="true"
+                    android:textColor="#090909"
+                    android:textColorLink="#5E35B1"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView12"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="serif"
+                    android:padding="80px"
+                    android:text="@string/link11"
+                    android:textAlignment="center"
+                    android:textAllCaps="true"
+                    android:textColor="#0A0B0A"
+                    android:textColorLink="#5E35B1"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+                <Button
+                    android:id="@+id/button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="50dp"
+                    android:text="CONTINUE"
+                    android:textSize="20sp" />
+
+            </LinearLayout>
+        </ScrollView>
+
+    </LinearLayout>
+
+</RelativeLayout>

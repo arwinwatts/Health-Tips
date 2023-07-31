@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">HEALTH TIPS</string>
+    <string name="diabetes">
+        <u><b>Diabetes mellitus</b></u> refers to a group of diseases that affect how the body uses blood sugar (glucose).
+        Glucose is an important source of energy for the cells that make up the muscles and tissues.
+        It is also the brain  main source of fuel.
+        The main cause of diabetes varies by type.
+        But no matter what type of diabetes you have, it can lead to excess sugar in the blood.
+        Too much sugar in the blood can lead to serious health problems.
+        Chronic diabetes conditions include type 1 diabetes and type 2 diabetes.
+        Potentially reversible diabetes conditions include pre diabetes and gestational diabetes.
+        Pre diabetes happens when blood sugar levels are higher than normal.
+        But the blood sugar levels aren\t high enough to be called diabetes.
+        And pre diabetes can lead to diabetes unless steps are taken to prevent it.
+        Gestational diabetes happens during pregnancy. But it may go away after the baby is born.
+    </string>
+    <string name="heart_attack">
+        A <u><b>heart attack</b></u> occurs when the flow of blood to the heart is severely reduced or blocked. The blockage is usually due to a buildup of fat, cholesterol and other substances in the heart (coronary) arteries. The fatty, cholesterol-containing deposits are called plaques. The process of plaque buildup is called atherosclerosis.
+
+Sometimes, a plaque can rupture and form a clot that blocks blood flow. A lack of blood flow can damage or destroy part of the heart muscle.
+
+A heart attack is also called a myocardial infarction.
+
+Prompt treatment is needed for a heart attack to prevent death. Call  emergency medical help if you think you might be having a heart attack.
+    </string>
+
+    <string name="stroke">
+        An <u><b>ischemic stroke</b></u> occurs when the blood supply to part of the brain is interrupted or reduced, preventing brain tissue from getting oxygen and nutrients. Brain cells begin to die in minutes.
+
+A stroke is a medical emergency, and prompt treatment is crucial. Early action can reduce brain damage and other complications.
+
+The good news is that many fewer Americans die of stroke now than in the past. Effective treatments can also help prevent disability from stroke.
+
+    </string>
+    <string name="lung_cancer">
+        <u><b>Lung cancer</b></u> is a type of cancer that begins in the lungs. Your lungs are two spongy organs in your chest that take in oxygen when you inhale and release carbon dioxide when you exhale.
+
+Lung cancer is the leading cause of cancer deaths worldwide.
+
+People who smoke have the greatest risk of lung cancer, though lung cancer can also occur in people who have never smoked. The risk of lung cancer increases with the length of time and number of cigarettes you have smoked. If you quit smoking, even after smoking for many years, you can significantly reduce your chances of developing lung cancer.
+
+    </string>
+</resources>
