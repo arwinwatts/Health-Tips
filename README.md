@@ -1,11 +1,11 @@
 # Health-Tips
 Group8 Healt Tips
-![sample](Image/7.png)
+![sample](IMAGE/1.jpg)
 ### Overview
 Gamoto is a user-friendly mobile app that provides a convenient and efficient way to purchase medicines. Whether you need over-the-counter medications or prescription drugs, Gamoto has got you covered. With an intuitive interface and a wide selection of medicines from licensed pharmacies and vendors, you can easily find and order the medications you need, all from the comfort of your smartphone. In today's fast-paced world, getting access to medicines when you need them most is crucial. Gamoto aims to bridge the gap between pharmacies, vendors, and customers by offering a reliable platform where users can buy their required medicines hassle-free. The app puts safety and quality first, ensuring that all medicines available on the platform come from trusted sources and adhere to regulatory standards.
 
 ### Features
-![sample](Image/8.png)
+![sample](IMAGE/2.jpg)
   1. Browse Medicines: Gamoto offers a comprehensive catalog of medicines, allowing users to browse and search for specific drugs or medical products. Users can easily find the medicines they need by using filters or searching by name, brand, or category.
 
   2. Search Medicines: The Search feature enables users to search for medicines using either their generic names or brand names. This functionality helps users quickly find the specific medicines they are looking for, saving time and effort.
